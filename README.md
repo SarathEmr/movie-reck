@@ -27,6 +27,10 @@ Once running, open your browser and navigate to:
 http://localhost:3000
 ```
 
+**Development Environment Credentials:**
+- **Username:** `sarath.n`
+- **Password:** `abc123`
+
 ---
 
 ## 🔌 API Endpoints (REST)
@@ -53,7 +57,7 @@ http://localhost:3000
 - ReactJS
 
 ### LLM
-- Gemini 2.0 Flash Lite
+- Gemini 2.5 Flash Lite
 
 ### Containerization
 - Docker & Docker Compose
